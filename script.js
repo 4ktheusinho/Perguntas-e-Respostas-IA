@@ -13,12 +13,8 @@ const perguntas = [
                 afirmacao: "Você concorda com esta afirmativa para melhores desempenho"
             },
             {
-                texto: "automatizar os processios, conectar máquinas agricolas, além de reduzir custos e aumentar a produtividade da 
-cultura por meie de diferentes soluções tecnológicas. 
-",
-                afirmacao: "Você concorda em automatizar as 
-máquinas com as novas tecnologias 
-"
+                texto: "automatizar os processios, conectar máquinas agricolas, além de reduzir custos e aumentar a produtividade da cultura por meie de diferentes soluções tecnológicas.",
+                afirmacao: "Você concorda em automatizar as máquinas com as novas tecnologias "
             }
         ]
     },
